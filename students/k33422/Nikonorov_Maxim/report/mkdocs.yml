@@ -57,3 +57,7 @@ nav:
     - Models: lab2/models.md
     - Views: lab2/views.md
     - Forms and URLs: lab2/forms.md
+  - Practice 3:
+    - Intro: practice3/index.md
+    - Part 1: practice3/part1.md
+    - Part 2: practice3/part2.md
